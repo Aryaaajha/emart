@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name": "Women Clothing",
+      "subcategory": [
+          "Ethnic Wear",
+          "Tops & Shirts",
+          "Jeans & Pants"
+      ]
+    },
+    {
+      "name": "Men Clothing",
+      "subcategory": [
+        "Jackets",
+        "Formals",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "PC Accessories",
+      "subcategory": [
+        "Laptop",
+        "Gaming PC",
+        "Equipments"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategory": [
+        "Car",
+        "Two wheelers",
+        "Loose parts"
+      ]
+    },
+    {
+      "name": "Kids Section",
+      "subcategory": [
+        "Baby Clothing",
+        "Shoes",
+        "Vanity"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategory": [
+        "Cycle",
+        "Swimming",
+        "Toys"
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "subcategory": [
+        "Necklace",
+        "Earrings",
+        "Ring"
+      ]
+    },
+    {
+      "name": "Mobile & Tablets",
+      "subcategory": [
+        "Phones",
+        "Tablets",
+        "Extras"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": [
+        "Sofa",
+        "Bed",
+        "Dining Table"
+      ]
+    }
+  ]
+}
